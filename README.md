@@ -44,7 +44,7 @@
 
 เมื่อพิจารณารายภูมิภาคพบว่า ส่วนมากจะมีสัดส่วนเพศหญิงต่อเพศชายใกล้เคียงกัน ยกเว้นในภูมิภาค Europe และ north America มีประชากรเพศหญิงมากกว่าเพศชาย 
 แต่ในทางกลับกัน Asia ยังมีประชากรเพศชายมากกว่าเพศหญิงค่อนข้างมาก
-![_mf Bar agender Rate by region](https://user-images.githubusercontent.com/122291438/226841280-111f4b50-fd42-44dd-b4c6-aee68d2d0aad.jpg)
+![Bar agender Rate by region](https://user-images.githubusercontent.com/122291438/227100198-62654ce8-a108-4668-a4eb-55d4fe0c1512.png)
 
 # 4. อายุไขเฉลี่ยตั้งแต่ปี 1960-2020
 
